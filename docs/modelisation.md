@@ -22,7 +22,12 @@ Tous les modèles ou "mesh" se composent de sommets (Vertices), d'arêtes (Edges
 
 La manière dont vous modélisez consiste à manipuler (déplacer, redimensionner et tourner) ces blocs de construction ou à en ajouter davantage. Le reste concerne comment faire cela plus rapidement et intelligemment. Nous avons aussi trois principaux types de polygones : Triangle (3 sommets), Quad (4 sommets) et Ngon (plus de 4 sommets).
 
-#TODO image d'illustration
+
+
+<iframe width="1920" height="720" src="https://www.youtube.com/embed/-bZ7gstIWyI" title="The Polygon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="1920" height="720" src="https://www.youtube.com/embed/VXS70tRhMb8" title="Multisided Polygon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 Tout est fait de triangles en interne:
 
