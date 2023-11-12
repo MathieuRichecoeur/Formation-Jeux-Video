@@ -15,6 +15,7 @@ Nous modélisons sur Maya, mais la majorité des concepts abordés sont universe
 - Vous pouvez modéliser presque tout à partir de simples primitives. Essayez de démarrer tous les modèles à partir de formes simples.
 
 - Gardez les modèles combinés ou séparés selon leur état dans le monde réel. Ne modélisez pas tout sous une seule forme s'ils sont séparés dans le monde réel.
+## non manifold lamina faces etcs 
 
 ## Blocs de construction d'un mesh
 
