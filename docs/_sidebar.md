@@ -1,3 +1,2 @@
-* [Home](/)
-* [Guide](guide.md)
-* [Presentation](presentation.md)
+* [Presentation](/)
+* [Modelisation](modelisation.md)
